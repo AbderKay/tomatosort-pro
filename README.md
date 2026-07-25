@@ -195,7 +195,7 @@ Each module folder contains its own `README.md` describing what belongs there an
 ## 👥 Team
 
 **Abderrahman Kayouh** in collaboration with : 
----
+
 
 |Hajar Hammouch |Mohamed Taha Hajji |
 | Amina Toumi | Malak Rhalem |
