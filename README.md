@@ -17,7 +17,7 @@
 
 <br>
 
-**mAP@50 `0.846` · Precision `0.92` · Recall `0.86` · F1 `0.89`**
+**mAP@50 `0.846` · Precision `0.92` · Recall `0.86` · F1 `0.90`**
 
 </div>
 
@@ -151,13 +151,6 @@ tomatosort-pro/
 
 ---
 
-## 👥 Team
-
-ENSA Agadir — Filière SDBDIA2 (2025–2026), supervised by **M. Hajji**.
-
-Abderrahman Kayouh · Hajar Hammouch · Amina Toumi · Malak Rhalem · Mohamed Taha Hajji
-
----
 
 ## 📄 License
 
