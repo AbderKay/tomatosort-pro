@@ -192,8 +192,30 @@ Each module folder contains its own `README.md` describing what belongs there an
 
 ---
 
+## 👥 Team
 
+Realized by students of **ENSA Agadir** — Filière SDBDIA2 (2025–2026), supervised by **M. Hajji**.
 
+| | |
+|---|---|
+| Abderrahman Kayouh | Hajar Hammouch |
+| Amina Toumi | Malak Rhalem |
+| Mohamed Taha Hajji | |
+
+---
+
+## 📚 References
+
+A curated set of the works underpinning this project (full list in the [technical report](docs/technical-report.pdf)):
+
+- Redmon & Farhadi — *YOLOv3: An Incremental Improvement*, arXiv:1804.02767, 2018.
+- Jocher et al. — *Ultralytics YOLOv8*, 2023.
+- LeCun, Bengio & Hinton — *Deep Learning*, Nature 521, 2015.
+- Kreuzberger, Kühl & Hirschl — *MLOps: Overview, Definition, and Architecture*, IEEE Access, 2023.
+- Kagermann, Wahlster & Helbig — *Recommendations for Implementing Industrie 4.0*, acatech, 2013.
+- Al-Mutawa & Al-Qahtani — *Deep Learning-Based Tomato Sorting System for Industrial Applications*, IEEE Access, 2022.
+
+---
 
 ## 📄 License
 
