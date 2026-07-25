@@ -194,7 +194,7 @@ Each module folder contains its own `README.md` describing what belongs there an
 
 ## 👥 Team
 
-Realized by  **Abderrahman Kayouh** :
+Realized by  **Abderrahman Kayouh**in collaboration  with  :
 
 | | |
 |---|---|
