@@ -1,8 +1,0 @@
-# Core
-ultralytics>=8.0.0        # YOLOv8 detection
-opencv-python>=4.8.0      # camera capture, HSV masking, drawing
-numpy>=1.24.0
-streamlit>=1.30.0         # live dashboard (app.py)
-
-# Edge optimization (OpenVINO-exported model)
-openvino>=2024.0.0
