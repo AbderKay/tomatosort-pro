@@ -194,10 +194,10 @@ Each module folder contains its own `README.md` describing what belongs there an
 
 ## 👥 Team
 
-Realized by students of **ENSA Agadir** — Filière SDBDIA2 (2025–2026), supervised by **M. Hajji**.
-
 **Abderrahman Kayouh** in collaboration with : 
-Hajar Hammouch |Mohamed Taha Hajji |
+---
+
+|Hajar Hammouch |Mohamed Taha Hajji |
 | Amina Toumi | Malak Rhalem |
 
 
