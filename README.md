@@ -131,12 +131,12 @@ The false-negative rate on the **Reject** class stays below **4%**, satisfying t
 
 ```
 tomatosort-pro/
-├── README.md               ← stays at root
-├── LICENSE                 ← stays at root (re-add it!)
-├── requirements.txt        ← stays at root
-├── .gitignore              ← stays at root
-├── app.py                  ← stays at root
-├── cam.py                  ← stays at root
+├── README.md              
+├── LICENSE                 
+├── requirements.txt        
+├── .gitignore              
+├── app.py                  
+├── cam.py                  
 │
 ├── models/
 │   ├── tomatosort_pro_v1_best.pt
@@ -152,8 +152,8 @@ tomatosort-pro/
 │       └── 011_*.jpg, 017_*.jpg, 046_*.jpg …  (the example images)
 │
 └── docs/
-    ├── PLACE_REPORT_HERE.txt      (delete after adding the real report)
-    ├── PLACE_SLIDES_HERE.txt      (delete after adding the real slides)
+    ├── PLACE_REPORT_HERE.txt      
+    ├── PLACE_SLIDES_HERE.txt      
     └── assets/
         ├── demo.gif
         ├── dashboard-operator.jpg
