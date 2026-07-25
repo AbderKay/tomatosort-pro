@@ -131,28 +131,35 @@ The false-negative rate on the **Reject** class stays below **4%**, satisfying t
 
 ```
 tomatosort-pro/
-├── vision/                 # Computer vision models
-│   ├── detection/          #   YOLO detection & localization
-│   ├── classification/     #   CNN quality grading (A / B / Reject)
-│   └── color_analysis/     #   HSV ripeness & color evaluation
-├── edge/                   # Edge inference (OpenVINO / TensorRT optimization)
-├── backend/                # FastAPI backend (REST + WebSocket)
-│   ├── api/                #   Endpoints
-│   ├── services/           #   Business logic
-│   └── models/             #   Data schemas
-├── frontend/               # React dashboards (operator / manager / CMMS)
-├── streaming/              # Apache Kafka producers/consumers (Speed Layer)
-├── data_pipeline/          # Lambda + Medallion pipeline
-│   ├── bronze/             #   Raw sensor & camera data
-│   ├── silver/             #   Cleaned & aggregated data
-│   └── gold/               #   Business KPIs & annotated training sets
-├── mlops/                  # MLflow tracking + Active Learning loop
-├── plc_control/            # PLC integration (Modbus / OPC-UA / Profinet)
-├── iot/                    # MQTT telemetry & predictive maintenance
-├── dataset/                # Datasets & data cards
-├── scripts/                # Utility scripts
-├── tests/                  # Test suite
-└── docs/                   # Technical report, presentation, diagrams
+├── README.md               ← stays at root
+├── LICENSE                 ← stays at root (re-add it!)
+├── requirements.txt        ← stays at root
+├── .gitignore              ← stays at root
+├── app.py                  ← stays at root
+├── cam.py                  ← stays at root
+│
+├── models/
+│   ├── tomatosort_pro_v1_best.pt
+│   └── tomatosort_pro_v1_best_openvino_model/
+│       ├── metadata.yaml
+│       ├── tomatosort_pro_v1_best.xml
+│       └── tomatosort_pro_v1_best.bin
+│
+├── dataset/
+│   ├── data.yaml
+│   ├── README.md
+│   └── samples/
+│       └── 011_*.jpg, 017_*.jpg, 046_*.jpg …  (the example images)
+│
+└── docs/
+    ├── PLACE_REPORT_HERE.txt      (delete after adding the real report)
+    ├── PLACE_SLIDES_HERE.txt      (delete after adding the real slides)
+    └── assets/
+        ├── demo.gif
+        ├── dashboard-operator.jpg
+        ├── dashboard-manager.jpg
+        ├── detection-view.jpg
+        └── results-view.jpg
 ```
 
 ---
