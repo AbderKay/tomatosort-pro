@@ -31,7 +31,7 @@
 
 *Live walkthrough — the model detecting healthy tomatoes (green) and foreign objects (red) in real time.*
 
-▶️ **[Watch the full 4K video](ADD_YOUR_VIDEO_LINK_HERE)** — *upload the original to YouTube / Google Drive / a GitHub Release and paste the link here (too large to store in the repo).*
+▶️ **[Watch the full 4K video](ADD_YOUR_VIDEO_LINK_HERE)** — *https://drive.google.com/drive/folders/1_B5Eeot7ZMKYYOUOTCJ_x7g_yjuYOtuB?usp=drive_link*
 
 </div>
 
