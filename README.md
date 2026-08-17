@@ -140,7 +140,17 @@ tomatosort-pro/
 ```
 
 ---
+## 👥 Équipe & Collaborateurs
 
+Projet académique réalisé par :
+
+| Membre | GitHub | Rôle / Contribution |
+| :--- | :--- | :--- |
+| **Abderrahman Kayouh** | [@votre-github](https://github.com/votre-github) | Lead / Développeur |
+| **Malak Rhalem** | [@malakrhalem](https://github.com/malakrhalem) | Contribution |
+| **Amina Toumi** | [@aminatoumi](https://github.com/aminatoumi) | Contribution |
+| **Hajar Hamouch** | [@hajarhamouch](https://github.com/hajarhamouch) | Contribution |
+| **Taha Hajji** | [@tahahajji](https://github.com/tahahajji) | Contribution |
 ## 🗺️ Roadmap
 
 - [ ] Extend from 2 classes to full quality grades (A / B / Reject)
