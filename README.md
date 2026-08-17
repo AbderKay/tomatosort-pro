@@ -160,7 +160,15 @@ Projet académique réalisé par :
 - [ ] Connect detections to a real sorting actuator (PLC)
 
 ---
+## 👥 Collaborateurs
 
+Ce projet académique a été réalisé par :
+
+* **Abderrahman Kayouh**
+* **Malak Rhalem**
+* **Amina Toumi**
+* **Hajar Hamouch**
+* **Taha Hajji**
 
 ## 📄 License
 
